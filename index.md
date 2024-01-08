@@ -21,7 +21,7 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 ---
 #### [MA State Education Project - Tableau](https://public.tableau.com/app/profile/derek.borromeo/viz/TheEducationProject-MASchoolsData/MAEducationOverview)
-[<img src="images/MAdata.png?raw=true"/>]
+<img src="images/MAdata.png?raw=true"/>(https://public.tableau.com/app/profile/derek.borromeo/viz/TheEducationProject-MASchoolsData/MAEducationOverview) <br>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
