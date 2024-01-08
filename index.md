@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [DoorDash (iFoods) Analysis Project - Excel](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/DoorDash Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
