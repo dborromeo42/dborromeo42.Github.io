@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data-Driven Educator <br>
   Sports. Family. DIY.  <br><br>
   <a href="https://www.linkedin.com/in/derek-borromeo/">
-  View My LinkedIn Profile</a> 
+  View My LinkedIn Profile</a> <br>
+  <a href="https://public.tableau.com/app/profile/derek.borromeo/vizzes/">
+  View My Tableau Dashboards</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
