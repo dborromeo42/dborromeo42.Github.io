@@ -4,20 +4,10 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
 ---
 #### [DoorDash (iFoods) Analysis Project - Excel](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
 [<img src="images/DoorDash Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+In this case study, I am analyzing data from DoorDash (iFoods) in Excel to answer several questions related to sales, demographics and marketing campaigns. 
 
 ---
 #### [MA State Education Dashboard Project - Tableau](https://public.tableau.com/app/profile/derek.borromeo/viz/TheEducationProject-MASchoolsData/MAEducationOverview)
@@ -26,19 +16,6 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state? 
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
