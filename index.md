@@ -14,13 +14,13 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [DoorDash (iFoods) Analysis Project - Excel](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
 ---
-#### [MA State Education Project - Tableau](https://public.tableau.com/app/profile/derek.borromeo/viz/TheEducationProject-MASchoolsData/MAEducationOverview)
+#### [MA State Education Dashboard Project - Tableau](https://public.tableau.com/app/profile/derek.borromeo/viz/TheEducationProject-MASchoolsData/MAEducationOverview)
 [<img src="images/MAdata.png?raw=true"/>](https://public.tableau.com/app/profile/derek.borromeo/viz/TheEducationProject-MASchoolsData/MAEducationOverview) <br>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
