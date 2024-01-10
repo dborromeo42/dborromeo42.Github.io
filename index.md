@@ -5,6 +5,11 @@
 ### Learn About My Projects
 
 ---
+#### [An SQL Analysis of the World Bank & the Philippines](https://www.linkedin.com/pulse/sql-analysis-world-bank-philippines-derek-borromeo-ot9qc%3FtrackingId=5oJfylxuRI%252BOhjGu1gWIbQ%253D%253D/?trackingId=5oJfylxuRI%2BOhjGu1gWIbQ%3D%3D)
+[<img src="images/DoorDash Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
+A SQL analysis of the World Banks loans to the Philippines.
+
+---
 #### [DoorDash (iFoods) Analysis Project - Excel](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
 [<img src="images/DoorDash Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
 In this case study, I am analyzing data from DoorDash (iFoods) in Excel to answer several questions related to sales, demographics and marketing campaigns. 
