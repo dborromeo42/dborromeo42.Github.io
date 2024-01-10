@@ -11,7 +11,7 @@ A SQL analysis of the World Banks loans to the Philippines.
 
 ---
 #### [DoorDash (iFoods) Analysis Project - Excel](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
-[<img src="images/DoorDash Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
+[<img src="images/WorldBankPhilippines1.jpg?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
 In this case study, I am analyzing data from DoorDash (iFoods) in Excel to answer several questions related to sales, demographics and marketing campaigns. 
 
 ---
