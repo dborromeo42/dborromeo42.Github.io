@@ -6,7 +6,7 @@
 
 ---
 #### [An SQL Analysis of the World Bank & the Philippines](https://www.linkedin.com/pulse/sql-analysis-world-bank-philippines-derek-borromeo-ot9qc%3FtrackingId=5oJfylxuRI%252BOhjGu1gWIbQ%253D%253D/?trackingId=5oJfylxuRI%2BOhjGu1gWIbQ%3D%3D)
-[<img src="images/WorldBankPhilippines1.jpg?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/)
+[<img src="images/WorldBankPhilippines1.jpg?raw=true"/>](https://www.linkedin.com/pulse/doordash-analysis-excel-insights-fill-you-up-derek-borromeo-xhrvc/) <br>
 A SQL analysis of the World Banks loans to the Philippines.
 
 ---
