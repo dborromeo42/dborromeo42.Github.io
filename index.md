@@ -22,5 +22,7 @@ What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state? 
 
-
-
+---
+Thank you for taking the time to check my portfolio out! I'm currently looking for roles that utilize data analytics. <br>
+Feel free to connect with me on LinkedIN(https://www.linkedin.com/in/derek-borromeo) or email. <br>
+derekjborromeo@gmail.com
