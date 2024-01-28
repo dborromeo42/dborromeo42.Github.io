@@ -6,7 +6,7 @@
 ---
 #### [Healthcare Analysis - SQL Project](https://www.linkedin.com/feed/update/urn:li:activity:7152438248487698432/)
 [<img src="images/Healthcare SQL.png?raw=true"/>](https://www.linkedin.com/pulse/sql-analysis-world-bank-philippines-derek-borromeo-ot9qc%3FtrackingId=5oJfylxuRI%252BOhjGu1gWIbQ%253D%253D/?trackingId=5oJfylxuRI%2BOhjGu1gWIbQ%3D%3D/) <br>
-A SQL analysis of the World Banks loans to the Philippines.
+A SQL analysis of hospital readmissions of people with type II diabetes.
 
 
 ---
